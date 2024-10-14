@@ -1,1 +1,1 @@
-# Candidate-System
+This program allows users to manage a database of candidates. The user can perform various operations on the candidate database, such as loading data from a file, displaying the contents of the database, sorting candidates by various attributes, adding new candidates, searching for candidates by name, and saving the database to a file. Additionally, the program encrypts and decrypts candidate names using a secret code provided in a separate file (codes.txt).
